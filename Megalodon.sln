@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Megalodon.Driver", "Megalodon.Driver\Megalodon.Driver.csproj", "{122EFA11-5779-4C65-A700-3925EA681D63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Megalodon.Common", "Megalodon.Common\Megalodon.Common.csproj", "{83EB7A33-A7F5-453E-A7EA-1C61AC7CD027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{122EFA11-5779-4C65-A700-3925EA681D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122EFA11-5779-4C65-A700-3925EA681D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122EFA11-5779-4C65-A700-3925EA681D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122EFA11-5779-4C65-A700-3925EA681D63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83EB7A33-A7F5-453E-A7EA-1C61AC7CD027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83EB7A33-A7F5-453E-A7EA-1C61AC7CD027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83EB7A33-A7F5-453E-A7EA-1C61AC7CD027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83EB7A33-A7F5-453E-A7EA-1C61AC7CD027}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

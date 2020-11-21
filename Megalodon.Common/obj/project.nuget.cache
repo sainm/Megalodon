@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MckoXOhjRsAWpZsul1qetJ/gRlItQvx+m6AIwGA5m4BaUcc5wIVGVirRTOyaCdV++kq/cMzZVpVmnpO6lcmxqg==",
+  "success": true,
+  "projectFilePath": "D:\\workspace\\csharp\\Megalodon\\Megalodon.Common\\Megalodon.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liuha\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
