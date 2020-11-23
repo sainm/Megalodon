@@ -1,7 +1,12 @@
+using System.Net;
+using System.Net.Sockets;
+
 namespace Megalodon.Driver
 {
     public class Listener
     {
+        
+        private TcpListener _listener;
         public Listener(int port)
         {
             this.Port = port;
@@ -11,6 +16,8 @@ namespace Megalodon.Driver
 
         public void Start()
         {
+            _listener = new TcpListener(IPAddress.Any, Port);
+            
             throw new System.NotImplementedException();
         }
     }
