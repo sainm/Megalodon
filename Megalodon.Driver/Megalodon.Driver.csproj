@@ -5,4 +5,14 @@
         <TargetFramework>net5.0</TargetFramework>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="CommandLineParser" Version="2.9.0-preview1" />
+      <PackageReference Include="ILMerge" Version="3.0.41" />
+      <PackageReference Include="NLog" Version="4.7.5" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Input" />
+    </ItemGroup>
+
 </Project>
